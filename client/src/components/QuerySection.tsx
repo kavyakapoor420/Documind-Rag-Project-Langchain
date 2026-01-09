@@ -59,7 +59,7 @@ export function QuerySection({ onAnswerReceived }: QuerySectionProps) {
   }
 
   return (
-    <Card className="w-full border border-border/50 shadow-sm rounded-2xl">
+    <Card className="w-full border border-border/50 shadow-sm rounded-2xl mt-25">
       <CardContent className="p-6 space-y-5">
         
         {/* Header */}
